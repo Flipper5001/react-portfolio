@@ -1,0 +1,22 @@
+.text {
+    padding-top: 40px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.bottomtext {
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.hero{
+    background-image: url('../../public/heroImage.jpg');
+    min-height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    background-color: #f3f1f2;
+}
