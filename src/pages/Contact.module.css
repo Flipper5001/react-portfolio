@@ -1,0 +1,26 @@
+.content {
+    background-color: #f3f1f2;
+    text-align: center;
+}
+
+.hero{
+    background-image: url('../../public/heroImage.jpg');
+    min-height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form {
+    max-width: 60%;
+    margin: auto;
+}
+
+.formElement {
+    padding: 10px;
+}
+
+.title {
+    margin: 0;
+    padding: 20px;
+}
