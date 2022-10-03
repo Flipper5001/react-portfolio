@@ -23,7 +23,7 @@ export default function SimpleBottomNavigation() {
         <a href="https://www.linkedin.com/">
           <BottomNavigationAction label="LinkedIn" icon={<LinkedInIcon />} />
         </a>
-        <a href="/portfolio">
+        <a href="https://flipper5001.github.io/online-portfolio/">
           <BottomNavigationAction label="Portfolio" icon={<ContactPageIcon />} />
         </a>
       </BottomNavigation>
