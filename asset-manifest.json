@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.fa73387c.css",
-    "main.js": "/react-portfolio/static/js/main.44574cf5.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/workout-tracker.PNG": "/react-portfolio/static/media/workout-tracker.88cde2cea50ee95d393f.PNG",
-    "static/media/portfolio.PNG": "/react-portfolio/static/media/portfolio.12eec8224b56820efcf4.PNG",
-    "static/media/heroImage.jpg": "/react-portfolio/static/media/heroImage.8f7a9b490ba6f328d40f.jpg",
-    "static/media/recipe-decider.PNG": "/react-portfolio/static/media/recipe-decider.259843da1c468efaa661.PNG",
-    "static/media/weather-dashboard.PNG": "/react-portfolio/static/media/weather-dashboard.8b9bb7c9c0033c8670d8.PNG",
-    "static/media/tech-blog.PNG": "/react-portfolio/static/media/tech-blog.ffcadd745a124915ffff.PNG",
-    "static/media/coding-quiz.PNG": "/react-portfolio/static/media/coding-quiz.cd21cb23cc385daaec27.PNG",
-    "index.html": "/react-portfolio/index.html",
-    "static/media/placeholder-resume.txt": "/react-portfolio/static/media/placeholder-resume.0eb208bb3fa4c3df0a4b.txt",
-    "main.fa73387c.css.map": "/react-portfolio/static/css/main.fa73387c.css.map",
-    "main.44574cf5.js.map": "/react-portfolio/static/js/main.44574cf5.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/static/css/main.9cae39c1.css",
+    "main.js": "/static/js/main.0fcf3543.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/workout-tracker.PNG": "/static/media/workout-tracker.88cde2cea50ee95d393f.PNG",
+    "static/media/portfolio.PNG": "/static/media/portfolio.12eec8224b56820efcf4.PNG",
+    "static/media/heroImage.jpg": "/static/media/heroImage.8f7a9b490ba6f328d40f.jpg",
+    "static/media/recipe-decider.PNG": "/static/media/recipe-decider.259843da1c468efaa661.PNG",
+    "static/media/weather-dashboard.PNG": "/static/media/weather-dashboard.8b9bb7c9c0033c8670d8.PNG",
+    "static/media/tech-blog.PNG": "/static/media/tech-blog.ffcadd745a124915ffff.PNG",
+    "static/media/coding-quiz.PNG": "/static/media/coding-quiz.cd21cb23cc385daaec27.PNG",
+    "index.html": "/index.html",
+    "static/media/placeholder-resume.txt": "/static/media/placeholder-resume.0eb208bb3fa4c3df0a4b.txt",
+    "main.9cae39c1.css.map": "/static/css/main.9cae39c1.css.map",
+    "main.0fcf3543.js.map": "/static/js/main.0fcf3543.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa73387c.css",
-    "static/js/main.44574cf5.js"
+    "static/css/main.9cae39c1.css",
+    "static/js/main.0fcf3543.js"
   ]
 }
