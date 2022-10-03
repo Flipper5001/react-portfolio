@@ -1,0 +1,28 @@
+.content {
+    background-color: #f3f1f2;
+}
+
+.hero{
+    background-image: url('../../public/heroImage.jpg');
+    min-height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pr10 {
+    padding-right: 50px;
+}
+
+.pb8 {
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+    color: var(--color-red-primary);
+    padding: 20px;
+}
